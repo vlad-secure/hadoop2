@@ -28,6 +28,10 @@ SET VCVARSPLAT=amd64
 @REM ******************
 @REM Forcibly move the Maven local repo
 
+
+
+
+
 SET MAVEN_OPTS=-Dmaven.repo.local=C:\Tools\m2
 
 @REM *******************************************
