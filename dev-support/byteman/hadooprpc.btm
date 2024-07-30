@@ -36,6 +36,9 @@ DO traceln("--> RPC message response: " + $3.getClass().getSimpleName() + " to "
 ENDRULE
 
 
+
+
+
 RULE Hadoop RPC source IP
 CLASS org.apache.hadoop.ipc.Server$RpcCall
 METHOD run
