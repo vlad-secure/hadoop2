@@ -2362,7 +2362,7 @@
                     <include>com.google.inject:guice:4.0</include>
                     <include>com.sun.jersey:jersey-core:1.19.4</include>
                     <include>com.sun.jersey:jersey-servlet:1.19.4</include>
-                    <include>com.github.pjfanning:jersey-json:1.20</include>
+                    <include>com.github.pjfanning:jersey-json:1.21.0</include>
                     <include>com.sun.jersey:jersey-server:1.19.4</include>
                     <include>com.sun.jersey:jersey-client:1.19.4</include>
                     <include>com.sun.jersey:jersey-grizzly2:1.19.4</include>
